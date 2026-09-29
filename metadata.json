@@ -1,0 +1,6 @@
+{
+  "name": "Simulasi PSTS Bahasa Indonesia Kelas XII",
+  "description": "Simulasi interaktif Ujian PSTS Bahasa Indonesia Kelas XII berbasis kisi-kisi resmi: Teks Biografi, Skimming/Scanning, Kata Serapan, Tanda Petik, Teks Prosedur, dan Presentasi Bisnis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
