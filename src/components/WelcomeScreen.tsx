@@ -206,12 +206,12 @@ export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onStartExam }) => 
             Fokus menjawab satu nomor pada tiap layar. Jawaban tersimpan otomatis saat melangkah ke nomor berikutnya.
           </div>
           <div className="p-3 rounded-xl bg-slate-900 border border-slate-800">
-            <strong className="block text-indigo-400 mb-1">Tingkat Kesulitan Bertahap</strong>
-            Soal 1–10 (Sedang), Soal 11–20 (Sedang-Sulit), dan Soal 21–30 (Sulit / HOTS).
+            <strong className="block text-indigo-400 mb-1">Pembahasan Lengkap & Detail</strong>
+            Di akhir ujian, setiap soal (terutama yang salah) diuraikan konsepnya, kaidah EYD V, dan analisis alasan pengecohnya agar kamu langsung paham.
           </div>
           <div className="p-3 rounded-xl bg-slate-900 border border-slate-800">
-            <strong className="block text-indigo-400 mb-1">Evaluasi Lengkap di Akhir</strong>
-            Nilai akhir /100, analisis 6 materi, pola kesalahan, review kaidah EYD V, dan 5 soal remedial langsung!
+            <strong className="block text-indigo-400 mb-1">Analisis Diagnostik & Remedial</strong>
+            Dilengkapi deteksi pola kesalahan, rangkuman materi yang wajib dipelajari lagi, serta 5 soal remedial interaktif.
           </div>
         </div>
       </div>
